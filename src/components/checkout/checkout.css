@@ -1,0 +1,12 @@
+.checkout {
+  background-color: #fff;
+}
+.checkout .form .form-label {
+  color: #3f3f3f;
+  font-weight: 700;
+}
+.checkout .form .form-control:focus {
+  outline: none;
+  box-shadow: none;
+  border: 1px solid #ced4da;
+}/*# sourceMappingURL=checkout.css.map */
